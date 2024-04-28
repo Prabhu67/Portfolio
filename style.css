@@ -235,10 +235,10 @@ transition: .5s ease;
     margin-bottom: 4rem;
 }
 .projects-container{
-    /* display: grid;
+    display: grid;
     grid-template-columns: repeat(2, 1fr);
     align-items: center;
-    gap: 4.5rem; */
+    gap: 4.5rem;
     display: flex;
     flex-wrap:nowrap;
     justify-content: space-between;
